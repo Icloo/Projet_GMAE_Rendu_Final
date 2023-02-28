@@ -34,7 +34,7 @@
      
             <div class="logo_nom_contenu">
 
-                <img src="./assets/OCAR.png" class="logo_page_partenaire">
+                <img src="../public/OCAR.png" class="logo_page_partenaire">
                 <div class="texte_presentation_partenaire">
                     <h1>OCAR</h1>
                     <p> OCAR est une compagnie d’assurance qui est présente sur tout le territoire.</p>

@@ -32,7 +32,7 @@
      
             <div class="logo_nom_contenu">
 
-                <img src="./assets/ASSURISKlogo.png" class="logo_page_partenaire_assurisk">
+                <img src="../public/ASSURISKlogo.png" class="logo_page_partenaire_assurisk">
                 <div class="texte_presentation_partenaire">
                     <h1>ASSURISK</h1>
                     <p>Être bien couvert, votre objectif et notre mission.</p>

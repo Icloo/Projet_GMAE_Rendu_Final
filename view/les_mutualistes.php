@@ -32,7 +32,7 @@
      
             <div class="logo_nom_contenu">
 
-                <img src="./assets/les-mutualistes.png" class="logo_page_partenaire">
+                <img src="../public/les-mutualistes.png" class="logo_page_partenaire">
                 <div class="texte_presentation_partenaire">
                     <h1>Les mutualistes</h1>
                     <p> LES + MUTUALISTES finance la solidarité nationale.

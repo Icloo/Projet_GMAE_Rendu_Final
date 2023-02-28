@@ -32,7 +32,7 @@
      
             <div class="logo_nom_contenu">
 
-                <img src="./assets/ALLIA.png" class="logo_page_partenaire">
+                <img src="../public/ALLIA.png" class="logo_page_partenaire">
                 <div class="texte_presentation_partenaire">
                     <h1>ALLIA</h1>
                     <p>ALLIA accompagne les entreprises dans leurs démarches en terme d’assurance.</p>
